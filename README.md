@@ -9,3 +9,6 @@ This tool can be used:
 ### Usage
 1. Download the .exe from the sidebar under "Releases"
 2. Run on startup or define a Windows Task to run on boot
+
+### Security
+Downloading a dodgy .exe from GitHub isn't best practise. You can also download the .ahk file and compile the exe yourself. 
